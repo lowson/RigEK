@@ -8,3 +8,5 @@ This script decodes the malware dropped from RigEK (application/x-msdownload).
 ```
 $ python decoder.py -i [input] -o [output]
 ```
+## LICENSE
+```RigEK_Decoder``` is open-sourced software licensed under the [MIT License](LICENSE)
